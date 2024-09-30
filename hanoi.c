@@ -21,8 +21,10 @@ void hanoi(int n, int a, int b, int c) // we add the third par. (c)
 
 int main()
 {
+  // we initialize the number of stones
   int n = 4;
-
-  hanoi(n, 1, 2);
+  
+ //starting from 1 to 2 using 3 as support
+    hanoi(n, 1, 2,3);
   return 0;
 }
