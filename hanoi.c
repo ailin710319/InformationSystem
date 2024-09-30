@@ -3,7 +3,7 @@
 void hanoi(int n, int a, int b, int c) // we add the third par. (c)
 {
   if (n == 1) 
-    printf("move stone 1 from %d to %d\n", a, b);
+    printf("presunúť kameň 1 z %d to %d\n", a, b);
   else
   {
     // move n-1 stone from a to c using b as support
