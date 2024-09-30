@@ -11,6 +11,7 @@ void hanoi(int n, int a, int b)
     hanoi(n, 6 - a - b, b);
   }
 }
+//
 
 int main()
 {
