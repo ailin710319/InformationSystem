@@ -13,7 +13,7 @@ kolko kamenov mnisi prekladaju...
 Nas tim tvoria clenovia:
 
 1.Ailin
-2.
+2.Renis
 3.
 4.
 
